@@ -1,0 +1,691 @@
+{
+    "title": "Movies at Home on Netflix <span>(January 2023)</span>",
+    "grids": [
+        {
+            "id": "movies_at_home_affiliates:netflix",
+            "list": [
+                {
+                    "audienceScore": {
+                        "score": "46",
+                        "sentiment": "negative"
+                    },
+                    "criticsScore": {
+                        "certifiedAttribute": "",
+                        "score": "89",
+                        "sentiment": "positive"
+                    },
+                    "fallbackPosterUrl": "//images.fandango.com/cms/assets/5d84d010-59b1-11ea-b175-791e911be53d--rt-poster-defaultgif.gif",
+                    "id": "dff5d9c6-44fe-44f1-bd57-c542ca366856",
+                    "isVideo": "True",
+                    "emsId": "dff5d9c6-44fe-44f1-bd57-c542ca366856",
+                    "mediaUrl": "/m/troll_2022",
+                    "mpxId": "2097751619771",
+                    "publicId": "HDB1ioFGgLPu",
+                    "posterUri": "https://resizing.flixster.com/P1VP3zhr4jiMa6hg7rtnlaj26gQ=/180x258/v2/https://resizing.flixster.com/ot7jNKIJPa0svcG5Hcuqmkx_WsU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJiZWI4N2Y4LTgwZTctNGEwZS05ZmMxLWQ3M2QzYTllM2IwMy5qcGc=",
+                    "releaseDateText": "Streaming Dec 1, 2022",
+                    "title": "Troll",
+                    "trailerUrl": "https://player.theplatform.com/p/NGweTC/pdk6_y__7B0iQTi4P/embed/select/media/HDB1ioFGgLPu",
+                    "type": "Movie"
+                },
+                {
+                    "audienceScore": {
+                        "score": "66",
+                        "sentiment": "positive"
+                    },
+                    "criticsScore": {
+                        "certifiedAttribute": "criticscertified",
+                        "score": "95",
+                        "sentiment": "positive"
+                    },
+                    "fallbackPosterUrl": "//images.fandango.com/cms/assets/5d84d010-59b1-11ea-b175-791e911be53d--rt-poster-defaultgif.gif",
+                    "id": "882dfd3a-8804-3ac5-a61e-6eace6eea46f",
+                    "isVideo": "False",
+                    "emsId": "882dfd3a-8804-3ac5-a61e-6eace6eea46f",
+                    "mediaUrl": "/m/it_follows",
+                    "posterUri": "https://resizing.flixster.com/P4oTsSMMZCbiScZMfJh0xZwFRTs=/180x258/v2/https://resizing.flixster.com/Sh_xpK_bWDSnb_xZoRI0LhWOWiY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzcxMGY3MTc4LTY4OWEtNGU1ZC1iZjZiLTQ0YWQ4YjVhMzYwMS53ZWJw",
+                    "releaseDateText": "Streaming Nov 30, 2016",
+                    "title": "It Follows",
+                    "type": "Movie"
+                },
+                {
+                    "audienceScore": {
+                        "score": "31",
+                        "sentiment": "negative"
+                    },
+                    "criticsScore": {
+                        "certifiedAttribute": "",
+                        "score": "23",
+                        "sentiment": "negative"
+                    },
+                    "fallbackPosterUrl": "//images.fandango.com/cms/assets/5d84d010-59b1-11ea-b175-791e911be53d--rt-poster-defaultgif.gif",
+                    "id": "d4411052-a15d-498d-85c8-98325ce9eb4d",
+                    "isVideo": "True",
+                    "emsId": "d4411052-a15d-498d-85c8-98325ce9eb4d",
+                    "mediaUrl": "/m/inheritance_2020",
+                    "mpxId": "1714719811749",
+                    "publicId": "N4kgOT6AgFec",
+                    "posterUri": "https://resizing.flixster.com/x_0dIAG8_jUsRcyqLr3vih_uVC8=/180x258/v2/https://resizing.flixster.com/FXHFhkQhZrluT18FS0rDEfQ70F8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzczZTU2OTNlLTQzMWEtNGM3Zi1hYTdjLTljN2RkZmQ0MWYyMi53ZWJw",
+                    "releaseDateText": "Streaming May 22, 2020",
+                    "title": "Inheritance",
+                    "trailerUrl": "https://player.theplatform.com/p/NGweTC/pdk6_y__7B0iQTi4P/embed/select/media/N4kgOT6AgFec",
+                    "type": "Movie"
+                },
+                {
+                    "audienceScore": {
+                        "score": "78",
+                        "sentiment": "positive"
+                    },
+                    "criticsScore": {
+                        "certifiedAttribute": "",
+                        "score": "56",
+                        "sentiment": "negative"
+                    },
+                    "fallbackPosterUrl": "//images.fandango.com/cms/assets/5d84d010-59b1-11ea-b175-791e911be53d--rt-poster-defaultgif.gif",
+                    "id": "b7ecb431-d281-3ece-ac8a-fd716d125c91",
+                    "isVideo": "True",
+                    "emsId": "b7ecb431-d281-3ece-ac8a-fd716d125c91",
+                    "mediaUrl": "/m/dont_look_up_2021",
+                    "mpxId": "1974634051757",
+                    "publicId": "yiXU0e2mUkeP",
+                    "posterUri": "https://resizing.flixster.com/ZZMBgapWzGz3fNknpMYLz39O7lo=/180x258/v2/https://resizing.flixster.com/iC6tded_K_movQT9LqrU2x46G4Y=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg4Yjk0NDAxLWFhODgtNDE4ZC04MDJlLTZlZmIzYTFjMjdiYy5qcGc=",
+                    "releaseDateText": "Streaming Dec 24, 2021",
+                    "title": "Don't Look Up",
+                    "trailerUrl": "https://player.theplatform.com/p/NGweTC/pdk6_y__7B0iQTi4P/embed/select/media/yiXU0e2mUkeP",
+                    "type": "Movie"
+                },
+                {
+                    "audienceScore": {
+                        "score": "72",
+                        "sentiment": "positive"
+                    },
+                    "criticsScore": {
+                        "certifiedAttribute": "",
+                        "score": "44",
+                        "sentiment": "negative"
+                    },
+                    "fallbackPosterUrl": "//images.fandango.com/cms/assets/5d84d010-59b1-11ea-b175-791e911be53d--rt-poster-defaultgif.gif",
+                    "id": "62626df9-6875-340f-9781-58164f3345c6",
+                    "isVideo": "True",
+                    "emsId": "62626df9-6875-340f-9781-58164f3345c6",
+                    "mediaUrl": "/m/luckiest_girl_alive",
+                    "mpxId": "2069331011678",
+                    "publicId": "LuM2j7Hm9WM9",
+                    "posterUri": "https://resizing.flixster.com/4laOJgu-0ChKvNpltksy5fFeKv4=/180x258/v2/https://resizing.flixster.com/3dpOOHMz0EivMdQ-W3-cXVlCJ9E=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE4NzYxMzcxLTc0OWEtNDUyNi1iZGU1LWJiMTdkZjZmYWRiZi5qcGc=",
+                    "releaseDateText": "Streaming Oct 7, 2022",
+                    "title": "Luckiest Girl Alive",
+                    "trailerUrl": "https://player.theplatform.com/p/NGweTC/pdk6_y__7B0iQTi4P/embed/select/media/LuM2j7Hm9WM9",
+                    "type": "Movie"
+                },
+                {
+                    "audienceScore": {
+                        "score": "80",
+                        "sentiment": "positive"
+                    },
+                    "criticsScore": {
+                        "certifiedAttribute": "criticscertified",
+                        "score": "100",
+                        "sentiment": "positive"
+                    },
+                    "fallbackPosterUrl": "//images.fandango.com/cms/assets/5d84d010-59b1-11ea-b175-791e911be53d--rt-poster-defaultgif.gif",
+                    "id": "125bb9ba-09cc-3340-a3a0-b3024300232f",
+                    "isVideo": "True",
+                    "emsId": "125bb9ba-09cc-3340-a3a0-b3024300232f",
+                    "mediaUrl": "/m/leave_no_trace",
+                    "mpxId": "1220038723645",
+                    "publicId": "boGx6Q_oI92C",
+                    "posterUri": "https://resizing.flixster.com/jKDQfsYGNHuKbKONc0dkGCfLokU=/180x258/v2/https://resizing.flixster.com/qF1V53LvHZfdeJGYQt0E8jsTVg0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzIyMWNhY2M3LWZjMTItNDdmOS1iYjZjLTM2NmVlNzA4NDc5NC53ZWJw",
+                    "releaseDateText": "Streaming Sep 25, 2018",
+                    "title": "Leave No Trace",
+                    "trailerUrl": "https://player.theplatform.com/p/NGweTC/pdk6_y__7B0iQTi4P/embed/select/media/boGx6Q_oI92C",
+                    "type": "Movie"
+                },
+                {
+                    "audienceScore": {
+                        "score": "73",
+                        "sentiment": "positive"
+                    },
+                    "criticsScore": {
+                        "certifiedAttribute": "criticscertified",
+                        "score": "99",
+                        "sentiment": "positive"
+                    },
+                    "fallbackPosterUrl": "//images.fandango.com/cms/assets/5d84d010-59b1-11ea-b175-791e911be53d--rt-poster-defaultgif.gif",
+                    "id": "fadf6d4d-e77d-376f-b0d6-a06c706ad36f",
+                    "isVideo": "False",
+                    "emsId": "fadf6d4d-e77d-376f-b0d6-a06c706ad36f",
+                    "mediaUrl": "/m/under_the_shadow",
+                    "posterUri": "https://resizing.flixster.com/Z7s4IbramLVbT2KEIj6xsG15KdQ=/180x258/v2/https://resizing.flixster.com/Kw1Wwzgz0f3_Do10xgV1nxoDzpI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI0ZDJmZmNmLTI0MWUtNDAzMC04NWI5LTBhMWZhMzA3ZDE2YS53ZWJw",
+                    "releaseDateText": "Streaming Jan 17, 2017",
+                    "title": "Under the Shadow",
+                    "type": "Movie"
+                },
+                {
+                    "audienceScore": {
+                        "score": "48",
+                        "sentiment": "negative"
+                    },
+                    "criticsScore": {
+                        "certifiedAttribute": "",
+                        "score": "44",
+                        "sentiment": "negative"
+                    },
+                    "fallbackPosterUrl": "//images.fandango.com/cms/assets/5d84d010-59b1-11ea-b175-791e911be53d--rt-poster-defaultgif.gif",
+                    "id": "9d9935d3-d196-3b89-949e-f14716a871a0",
+                    "isVideo": "True",
+                    "emsId": "9d9935d3-d196-3b89-949e-f14716a871a0",
+                    "mediaUrl": "/m/the_wedding_year",
+                    "mpxId": "1605466179773",
+                    "publicId": "twmTRvei4_EU",
+                    "posterUri": "https://resizing.flixster.com/7HX-KqbpW0VHWB53svplpaf8tX8=/180x258/v2/https://flxt.tmsimg.com/assets/p17232125_p_v8_ab.jpg",
+                    "releaseDateText": "Streaming Sep 20, 2019",
+                    "title": "The Wedding Year",
+                    "trailerUrl": "https://player.theplatform.com/p/NGweTC/pdk6_y__7B0iQTi4P/embed/select/media/twmTRvei4_EU",
+                    "type": "Movie"
+                },
+                {
+                    "audienceScore": {
+                        "score": "52",
+                        "sentiment": "negative"
+                    },
+                    "criticsScore": {
+                        "certifiedAttribute": "criticscertified",
+                        "score": "94",
+                        "sentiment": "positive"
+                    },
+                    "fallbackPosterUrl": "//images.fandango.com/cms/assets/5d84d010-59b1-11ea-b175-791e911be53d--rt-poster-defaultgif.gif",
+                    "id": "955ca4a9-0eae-36cc-996b-2ddc93196f2c",
+                    "isVideo": "True",
+                    "emsId": "955ca4a9-0eae-36cc-996b-2ddc93196f2c",
+                    "mediaUrl": "/m/the_lost_daughter",
+                    "mpxId": "1963136579959",
+                    "publicId": "hm6qNUeGdS5S",
+                    "posterUri": "https://resizing.flixster.com/SI-dS3EF0oPqwBpnj1SxT1FUQlY=/180x258/v2/https://resizing.flixster.com/YcYYK-LNM4kHbCC4w1mpKdd0Vlg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFlNjQ5MTc1LTYyYzItNGQwMy1iZjNhLTQ2N2ZmZDZlMGNjZi5qcGc=",
+                    "releaseDateText": "Streaming Dec 31, 2021",
+                    "title": "The Lost Daughter",
+                    "trailerUrl": "https://player.theplatform.com/p/NGweTC/pdk6_y__7B0iQTi4P/embed/select/media/hm6qNUeGdS5S",
+                    "type": "Movie"
+                },
+                {
+                    "audienceScore": {
+                        "score": "91",
+                        "sentiment": "positive"
+                    },
+                    "criticsScore": {
+                        "certifiedAttribute": "criticscertified",
+                        "score": "97",
+                        "sentiment": "positive"
+                    },
+                    "fallbackPosterUrl": "//images.fandango.com/cms/assets/5d84d010-59b1-11ea-b175-791e911be53d--rt-poster-defaultgif.gif",
+                    "id": "3c49fd32-79c4-3ef1-9ae2-0b14c898bb04",
+                    "isVideo": "True",
+                    "emsId": "3c49fd32-79c4-3ef1-9ae2-0b14c898bb04",
+                    "mediaUrl": "/m/hunt_for_the_wilderpeople",
+                    "mpxId": "677896771912",
+                    "publicId": "1PixOVCSA95I",
+                    "posterUri": "https://resizing.flixster.com/uEOImZZhDMCrAWoz46_HuuV42Mk=/180x258/v2/https://flxt.tmsimg.com/assets/p12664790_p_v8_ah.jpg",
+                    "releaseDateText": "Streaming Sep 20, 2016",
+                    "title": "Hunt for the Wilderpeople",
+                    "trailerUrl": "https://player.theplatform.com/p/NGweTC/pdk6_y__7B0iQTi4P/embed/select/media/1PixOVCSA95I",
+                    "type": "Movie"
+                },
+                {
+                    "audienceScore": {
+                        "score": "77",
+                        "sentiment": "positive"
+                    },
+                    "criticsScore": {
+                        "certifiedAttribute": "",
+                        "score": "68",
+                        "sentiment": "positive"
+                    },
+                    "fallbackPosterUrl": "//images.fandango.com/cms/assets/5d84d010-59b1-11ea-b175-791e911be53d--rt-poster-defaultgif.gif",
+                    "id": "92844dc6-c5a8-351c-a047-8e9d80dab315",
+                    "isVideo": "True",
+                    "emsId": "92844dc6-c5a8-351c-a047-8e9d80dab315",
+                    "mediaUrl": "/m/1198124-shutter_island",
+                    "mpxId": "1220289603886",
+                    "publicId": "xTJmaXJjM8y9",
+                    "posterUri": "https://resizing.flixster.com/9KYGzS_N0UlRq0ifEJmrFOWB9wU=/180x258/v2/https://flxt.tmsimg.com/assets/p3531967_p_v13_an.jpg",
+                    "releaseDateText": "Streaming Aug 1, 2013",
+                    "title": "Shutter Island",
+                    "trailerUrl": "https://player.theplatform.com/p/NGweTC/pdk6_y__7B0iQTi4P/embed/select/media/xTJmaXJjM8y9",
+                    "type": "Movie"
+                },
+                {
+                    "audienceScore": {
+                        "score": "78",
+                        "sentiment": "positive"
+                    },
+                    "criticsScore": {
+                        "certifiedAttribute": "criticscertified",
+                        "score": "94",
+                        "sentiment": "positive"
+                    },
+                    "fallbackPosterUrl": "//images.fandango.com/cms/assets/5d84d010-59b1-11ea-b175-791e911be53d--rt-poster-defaultgif.gif",
+                    "id": "84d54770-8307-4dd2-83a0-96467e4566c9",
+                    "isVideo": "True",
+                    "emsId": "84d54770-8307-4dd2-83a0-96467e4566c9",
+                    "mediaUrl": "/m/enola_holmes_2",
+                    "mpxId": "2083219523703",
+                    "publicId": "023jpSA8DN5K",
+                    "posterUri": "https://resizing.flixster.com/eIgMlUwBLsYa80K_KPe08F9MKOg=/180x258/v2/https://resizing.flixster.com/nxpZCgH2NGiTawUjapmFtuLrspc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzIzZjY2Y2JhLWIxNDAtNDliYy05N2QxLTU2MDJmMGMzNWUxZi5qcGc=",
+                    "releaseDateText": "Streaming Nov 4, 2022",
+                    "title": "Enola Holmes 2",
+                    "trailerUrl": "https://player.theplatform.com/p/NGweTC/pdk6_y__7B0iQTi4P/embed/select/media/023jpSA8DN5K",
+                    "type": "Movie"
+                },
+                {
+                    "audienceScore": {
+                        "score": "50",
+                        "sentiment": "negative"
+                    },
+                    "criticsScore": {
+                        "certifiedAttribute": "criticscertified",
+                        "score": "82",
+                        "sentiment": "positive"
+                    },
+                    "fallbackPosterUrl": "//images.fandango.com/cms/assets/5d84d010-59b1-11ea-b175-791e911be53d--rt-poster-defaultgif.gif",
+                    "id": "e9b00b5d-cdf2-30bb-a4f0-9f5bacaeea19",
+                    "isVideo": "True",
+                    "emsId": "e9b00b5d-cdf2-30bb-a4f0-9f5bacaeea19",
+                    "mediaUrl": "/m/im_thinking_of_ending_things",
+                    "mpxId": "1772936259957",
+                    "publicId": "mt5oL3URUxir",
+                    "posterUri": "https://resizing.flixster.com/i2RoMg2Ky6QyNm6CjDMKd7gnTbo=/180x258/v2/https://resizing.flixster.com/rwWE6qPP7fjxPGPALwqCnIrSN_U=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzc0MjQ3NjEzLTBkYmYtNDRjZS05NmU1LTY4YjUxODA5ODlhNC5qcGc=",
+                    "releaseDateText": "Streaming Sep 4, 2020",
+                    "title": "I'm Thinking of Ending Things",
+                    "trailerUrl": "https://player.theplatform.com/p/NGweTC/pdk6_y__7B0iQTi4P/embed/select/media/mt5oL3URUxir",
+                    "type": "Movie"
+                },
+                {
+                    "audienceScore": {
+                        "score": "36",
+                        "sentiment": "negative"
+                    },
+                    "criticsScore": {
+                        "certifiedAttribute": "",
+                        "score": "13",
+                        "sentiment": "negative"
+                    },
+                    "fallbackPosterUrl": "//images.fandango.com/cms/assets/5d84d010-59b1-11ea-b175-791e911be53d--rt-poster-defaultgif.gif",
+                    "id": "2d26219c-bf97-31b2-8a4b-ec9e24b26dfd",
+                    "isVideo": "False",
+                    "emsId": "2d26219c-bf97-31b2-8a4b-ec9e24b26dfd",
+                    "mediaUrl": "/m/last_seen_alive",
+                    "posterUri": "https://resizing.flixster.com/uGJ7gWdKHvSBTdMPy_8RWlsTkNQ=/180x258/v2/https://flxt.tmsimg.com/assets/p22122853_p_v8_aa.jpg",
+                    "releaseDateText": "Streaming Jun 3, 2022",
+                    "title": "Last Seen Alive",
+                    "type": "Movie"
+                },
+                {
+                    "audienceScore": {
+                        "score": "48",
+                        "sentiment": "negative"
+                    },
+                    "criticsScore": {
+                        "certifiedAttribute": "",
+                        "score": "74",
+                        "sentiment": "positive"
+                    },
+                    "fallbackPosterUrl": "//images.fandango.com/cms/assets/5d84d010-59b1-11ea-b175-791e911be53d--rt-poster-defaultgif.gif",
+                    "id": "75f0f717-74f6-39e8-809e-5a48dc058520",
+                    "isVideo": "True",
+                    "emsId": "75f0f717-74f6-39e8-809e-5a48dc058520",
+                    "mediaUrl": "/m/the_guilty_2021",
+                    "mpxId": "1943003203828",
+                    "publicId": "v8fofkFOn8p_",
+                    "posterUri": "https://resizing.flixster.com/ohuD-e3mo3921_ZadXOiT8eaLxw=/180x258/v2/https://resizing.flixster.com/moBjoNmhos7KxDbrgAG4PVBEfh0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzUzNjRlMjVkLTU0YTEtNDVlYi05NjcyLWU4ZDVjZDYzODcyMy5qcGc=",
+                    "releaseDateText": "Streaming Oct 1, 2021",
+                    "title": "The Guilty",
+                    "trailerUrl": "https://player.theplatform.com/p/NGweTC/pdk6_y__7B0iQTi4P/embed/select/media/v8fofkFOn8p_",
+                    "type": "Movie"
+                },
+                {
+                    "audienceScore": {
+                        "score": "65",
+                        "sentiment": "positive"
+                    },
+                    "criticsScore": {
+                        "certifiedAttribute": "criticscertified",
+                        "score": "83",
+                        "sentiment": "positive"
+                    },
+                    "fallbackPosterUrl": "//images.fandango.com/cms/assets/5d84d010-59b1-11ea-b175-791e911be53d--rt-poster-defaultgif.gif",
+                    "id": "9f7ae3bc-6727-3f56-823a-0fad16b24f4e",
+                    "isVideo": "True",
+                    "emsId": "9f7ae3bc-6727-3f56-823a-0fad16b24f4e",
+                    "mediaUrl": "/m/operation_mincemeat",
+                    "mpxId": "2021225539963",
+                    "publicId": "6yz1KEgaTkVH",
+                    "posterUri": "https://resizing.flixster.com/HqT4KGOf-3AimHk9ryUQwV_p9nA=/180x258/v2/https://resizing.flixster.com/vKk0wzhbkL2FoAqRdiR4CwMWk5Y=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzVkNjQ3YjU5LTA3ODctNGUyZi1hZjg2LTgyMzg5ZjE4NTYwMy5qcGc=",
+                    "releaseDateText": "Streaming May 11, 2022",
+                    "title": "Operation Mincemeat",
+                    "trailerUrl": "https://player.theplatform.com/p/NGweTC/pdk6_y__7B0iQTi4P/embed/select/media/6yz1KEgaTkVH",
+                    "type": "Movie"
+                },
+                {
+                    "audienceScore": {
+                        "score": "29",
+                        "sentiment": "negative"
+                    },
+                    "criticsScore": {
+                        "certifiedAttribute": "",
+                        "score": "39",
+                        "sentiment": "negative"
+                    },
+                    "fallbackPosterUrl": "//images.fandango.com/cms/assets/5d84d010-59b1-11ea-b175-791e911be53d--rt-poster-defaultgif.gif",
+                    "id": "ba747c4d-0f28-4edc-85da-3e9f0ba59f72",
+                    "isVideo": "True",
+                    "emsId": "ba747c4d-0f28-4edc-85da-3e9f0ba59f72",
+                    "mediaUrl": "/m/spiderhead",
+                    "mpxId": "2033894979967",
+                    "publicId": "nplK9Mzs4bIZ",
+                    "posterUri": "https://resizing.flixster.com/HMDWEMYIE_4E-7gOz3VbD_Es7Rs=/180x258/v2/https://resizing.flixster.com/kX5UkrfgCBpCLD-YZ6n76GYd50E=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNmMDM2MDMzLWE1ZDItNDI0ZC05NzE2LTE2YWZiZjQ1MjJjOC5qcGc=",
+                    "releaseDateText": "Streaming Jun 17, 2022",
+                    "title": "Spiderhead",
+                    "trailerUrl": "https://player.theplatform.com/p/NGweTC/pdk6_y__7B0iQTi4P/embed/select/media/nplK9Mzs4bIZ",
+                    "type": "Movie"
+                },
+                {
+                    "audienceScore": {
+                        "score": "78",
+                        "sentiment": "positive"
+                    },
+                    "criticsScore": {
+                        "certifiedAttribute": "criticscertified",
+                        "score": "96",
+                        "sentiment": "positive"
+                    },
+                    "fallbackPosterUrl": "//images.fandango.com/cms/assets/5d84d010-59b1-11ea-b175-791e911be53d--rt-poster-defaultgif.gif",
+                    "id": "ffc8295f-9985-3018-a08a-f9edcef62985",
+                    "isVideo": "True",
+                    "emsId": "ffc8295f-9985-3018-a08a-f9edcef62985",
+                    "mediaUrl": "/m/outside_in_2018",
+                    "mpxId": "1157088323652",
+                    "publicId": "i_jp4_oFe_5O",
+                    "posterUri": "https://resizing.flixster.com/YC4QyEOHvugDgskzT7x3rLXlAdQ=/180x258/v2/https://flxt.tmsimg.com/assets/p14478231_p_v8_aa.jpg",
+                    "releaseDateText": "Streaming Apr 3, 2018",
+                    "title": "Outside In",
+                    "trailerUrl": "https://player.theplatform.com/p/NGweTC/pdk6_y__7B0iQTi4P/embed/select/media/i_jp4_oFe_5O",
+                    "type": "Movie"
+                },
+                {
+                    "audienceScore": {
+                        "score": "79",
+                        "sentiment": "positive"
+                    },
+                    "criticsScore": {
+                        "certifiedAttribute": "criticscertified",
+                        "score": "91",
+                        "sentiment": "positive"
+                    },
+                    "fallbackPosterUrl": "//images.fandango.com/cms/assets/5d84d010-59b1-11ea-b175-791e911be53d--rt-poster-defaultgif.gif",
+                    "id": "d0f07731-2d7c-3d96-9b19-748ddbbd44ce",
+                    "isVideo": "True",
+                    "emsId": "d0f07731-2d7c-3d96-9b19-748ddbbd44ce",
+                    "mediaUrl": "/m/the_nice_guys",
+                    "mpxId": "680060483906",
+                    "publicId": "3Yxe0cmJ4pqo",
+                    "posterUri": "https://resizing.flixster.com/E-xdpVPpk7-AVWKpt8tLVbRNa-s=/180x258/v2/https://flxt.tmsimg.com/assets/p12356386_p_v8_ae.jpg",
+                    "releaseDateText": "Streaming Aug 9, 2016",
+                    "title": "The Nice Guys",
+                    "trailerUrl": "https://player.theplatform.com/p/NGweTC/pdk6_y__7B0iQTi4P/embed/select/media/3Yxe0cmJ4pqo",
+                    "type": "Movie"
+                },
+                {
+                    "audienceScore": {
+                        "score": "62",
+                        "sentiment": "positive"
+                    },
+                    "criticsScore": {
+                        "certifiedAttribute": "",
+                        "score": "69",
+                        "sentiment": "positive"
+                    },
+                    "fallbackPosterUrl": "//images.fandango.com/cms/assets/5d84d010-59b1-11ea-b175-791e911be53d--rt-poster-defaultgif.gif",
+                    "id": "ea495210-6297-3e2b-8b99-004ce3066033",
+                    "isVideo": "True",
+                    "emsId": "ea495210-6297-3e2b-8b99-004ce3066033",
+                    "mediaUrl": "/m/771566890",
+                    "mpxId": "2064397379516",
+                    "publicId": "io6ZP4Ik24k8",
+                    "posterUri": "https://resizing.flixster.com/fe0Colcm3IZ7YqWQhVMVxShTmlw=/180x258/v2/https://resizing.flixster.com/i0LGVXf_j-QlrVGCf4EQui7tyAc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZiZjQ0N2Y2LWI4MmQtNDZmNC1iZjRlLWQ2NDUwOTcwNzZhZi5qcGc=",
+                    "releaseDateText": "Streaming Sep 23, 2022",
+                    "title": "Lou",
+                    "trailerUrl": "https://player.theplatform.com/p/NGweTC/pdk6_y__7B0iQTi4P/embed/select/media/io6ZP4Ik24k8",
+                    "type": "Movie"
+                },
+                {
+                    "audienceScore": {
+                        "score": "86",
+                        "sentiment": "positive"
+                    },
+                    "criticsScore": {
+                        "certifiedAttribute": "criticscertified",
+                        "score": "95",
+                        "sentiment": "positive"
+                    },
+                    "fallbackPosterUrl": "//images.fandango.com/cms/assets/5d84d010-59b1-11ea-b175-791e911be53d--rt-poster-defaultgif.gif",
+                    "id": "68926d10-17d5-3caf-95b4-d7b2a073393d",
+                    "isVideo": "True",
+                    "emsId": "68926d10-17d5-3caf-95b4-d7b2a073393d",
+                    "mediaUrl": "/m/the_irishman",
+                    "mpxId": "1644702275520",
+                    "publicId": "Ted9aPMP5O2n",
+                    "posterUri": "https://resizing.flixster.com/3YmZoL9caSQohZmz3HjfpdHOTew=/180x258/v2/https://resizing.flixster.com/GUewSzxRltnb1uUNG-K85DQXFqk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzViMjBhZDM0LWMxNTUtNDA3OC05ZjVkLTg4MDliYjNhNjdkOC53ZWJw",
+                    "releaseDateText": "Streaming Nov 27, 2019",
+                    "title": "The Irishman",
+                    "trailerUrl": "https://player.theplatform.com/p/NGweTC/pdk6_y__7B0iQTi4P/embed/select/media/Ted9aPMP5O2n",
+                    "type": "Movie"
+                },
+                {
+                    "audienceScore": {
+                        "score": "92",
+                        "sentiment": "positive"
+                    },
+                    "criticsScore": {
+                        "certifiedAttribute": "criticscertified",
+                        "score": "95",
+                        "sentiment": "positive"
+                    },
+                    "fallbackPosterUrl": "//images.fandango.com/cms/assets/5d84d010-59b1-11ea-b175-791e911be53d--rt-poster-defaultgif.gif",
+                    "id": "1655d908-6680-3030-a880-374dec2822f8",
+                    "isVideo": "True",
+                    "emsId": "1655d908-6680-3030-a880-374dec2822f8",
+                    "mediaUrl": "/m/sing_street",
+                    "mpxId": "601899075904",
+                    "publicId": "OxNl1n7tXDig",
+                    "posterUri": "https://resizing.flixster.com/uehq9EzuHaNlBQZU2bxAp6S8EDE=/180x258/v2/https://resizing.flixster.com/L7ImAjsyC1jjSKSMGRSXTUw5Hco=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U5MjNjMWM4LWM0MDktNDgxNi04ZDU4LTEyZjQxY2VmNjQwOC53ZWJw",
+                    "releaseDateText": "Streaming Nov 12, 2016",
+                    "title": "Sing Street",
+                    "trailerUrl": "https://player.theplatform.com/p/NGweTC/pdk6_y__7B0iQTi4P/embed/select/media/OxNl1n7tXDig",
+                    "type": "Movie"
+                },
+                {
+                    "audienceScore": {
+                        "score": "85",
+                        "sentiment": "positive"
+                    },
+                    "criticsScore": {
+                        "certifiedAttribute": "",
+                        "score": "80",
+                        "sentiment": "positive"
+                    },
+                    "fallbackPosterUrl": "//images.fandango.com/cms/assets/5d84d010-59b1-11ea-b175-791e911be53d--rt-poster-defaultgif.gif",
+                    "id": "8ef00d32-9382-3191-93b8-051255d8e36f",
+                    "isVideo": "False",
+                    "emsId": "8ef00d32-9382-3191-93b8-051255d8e36f",
+                    "mediaUrl": "/m/i_used_to_be_famous_2022",
+                    "posterUri": "https://resizing.flixster.com/68nY8HII6DL3D2icsExsiChzuW8=/180x258/v2/https://resizing.flixster.com/TFUYErum0arV8_dAI5NfubfrORo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgzNjIzMDgzLTNjOWYtNDkxYy1iNjA1LWE3MWY5YzhmMzZlYS5qcGc=",
+                    "releaseDateText": "Streaming Sep 16, 2022",
+                    "title": "I Used to Be Famous",
+                    "type": "Movie"
+                },
+                {
+                    "audienceScore": {
+                        "score": "61",
+                        "sentiment": "positive"
+                    },
+                    "criticsScore": {
+                        "certifiedAttribute": "",
+                        "score": "54",
+                        "sentiment": "negative"
+                    },
+                    "fallbackPosterUrl": "//images.fandango.com/cms/assets/5d84d010-59b1-11ea-b175-791e911be53d--rt-poster-defaultgif.gif",
+                    "id": "00bd8bed-d26a-3a8f-9f44-c262141ab4c2",
+                    "isVideo": "False",
+                    "emsId": "00bd8bed-d26a-3a8f-9f44-c262141ab4c2",
+                    "mediaUrl": "/m/oblivion_2013",
+                    "posterUri": "https://resizing.flixster.com/L1zSchDFgKa67WRycc6J39l3S-8=/180x258/v2/https://flxt.tmsimg.com/assets/p9344844_p_v8_aa.jpg",
+                    "releaseDateText": "Streaming Jan 1, 2015",
+                    "title": "Oblivion",
+                    "type": "Movie"
+                },
+                {
+                    "audienceScore": {
+                        "score": "66",
+                        "sentiment": "positive"
+                    },
+                    "criticsScore": {
+                        "certifiedAttribute": "",
+                        "score": "37",
+                        "sentiment": "negative"
+                    },
+                    "fallbackPosterUrl": "//images.fandango.com/cms/assets/5d84d010-59b1-11ea-b175-791e911be53d--rt-poster-defaultgif.gif",
+                    "id": "0f01cdc9-cea0-4a9d-8a20-9c8d5beae6c6",
+                    "isVideo": "True",
+                    "emsId": "0f01cdc9-cea0-4a9d-8a20-9c8d5beae6c6",
+                    "mediaUrl": "/m/the_school_for_good_and_evil",
+                    "mpxId": "2083722307554",
+                    "publicId": "aknhIf438V_7",
+                    "posterUri": "https://resizing.flixster.com/CfEGrXf8EXjHqN5tieNTv5eNnj0=/180x258/v2/https://resizing.flixster.com/ND64xRlf5zF89M40xIk-DZSPMhE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhlNjJhZDYwLTk2NDktNGE0OC05NmYyLWZhYzVkN2E4NDE2My5qcGc=",
+                    "releaseDateText": "Streaming Oct 19, 2022",
+                    "title": "The School for Good and Evil",
+                    "trailerUrl": "https://player.theplatform.com/p/NGweTC/pdk6_y__7B0iQTi4P/embed/select/media/aknhIf438V_7",
+                    "type": "Movie"
+                },
+                {
+                    "audienceScore": {
+                        "score": "95",
+                        "sentiment": "positive"
+                    },
+                    "criticsScore": {
+                        "certifiedAttribute": "",
+                        "score": "71",
+                        "sentiment": "positive"
+                    },
+                    "fallbackPosterUrl": "//images.fandango.com/cms/assets/5d84d010-59b1-11ea-b175-791e911be53d--rt-poster-defaultgif.gif",
+                    "id": "c7932403-fa74-3121-82d4-2eeae2dd4d5f",
+                    "isVideo": "True",
+                    "emsId": "c7932403-fa74-3121-82d4-2eeae2dd4d5f",
+                    "mediaUrl": "/m/forrest_gump",
+                    "mpxId": "1187855939584",
+                    "publicId": "qTo5G802jf2X",
+                    "posterUri": "https://resizing.flixster.com/XMIXpiH4Iw-Khan4gFa2K6QG5S8=/180x258/v2/https://flxt.tmsimg.com/NowShowing/3509/3509_aa.jpg",
+                    "releaseDateText": "Streaming Aug 1, 2013",
+                    "title": "Forrest Gump",
+                    "trailerUrl": "https://player.theplatform.com/p/NGweTC/pdk6_y__7B0iQTi4P/embed/select/media/qTo5G802jf2X",
+                    "type": "Movie"
+                },
+                {
+                    "audienceScore": {
+                        "score": "83",
+                        "sentiment": "positive"
+                    },
+                    "criticsScore": {
+                        "certifiedAttribute": "",
+                        "score": "58",
+                        "sentiment": "negative"
+                    },
+                    "fallbackPosterUrl": "//images.fandango.com/cms/assets/5d84d010-59b1-11ea-b175-791e911be53d--rt-poster-defaultgif.gif",
+                    "id": "2337cc71-98d2-3daf-a816-53b7e1b0c5dc",
+                    "isVideo": "True",
+                    "emsId": "2337cc71-98d2-3daf-a816-53b7e1b0c5dc",
+                    "mediaUrl": "/m/top_gun",
+                    "mpxId": "755305539674",
+                    "publicId": "E8BbM3p_W7lS",
+                    "posterUri": "https://resizing.flixster.com/pyme1nb64FjRiOVMZA0sAqTZDhI=/180x258/v2/https://resizing.flixster.com/f71tHS8hNz7ZTv8Wxoj4-t3FO4I=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhlZDg2NzcxLTNlZWUtNDliNi04YTlkLWNhOTE2OWZiNDc1Ny5qcGc=",
+                    "releaseDateText": "Streaming Aug 1, 2013",
+                    "title": "Top Gun",
+                    "trailerUrl": "https://player.theplatform.com/p/NGweTC/pdk6_y__7B0iQTi4P/embed/select/media/E8BbM3p_W7lS",
+                    "type": "Movie"
+                },
+                {
+                    "audienceScore": {
+                        "score": "73",
+                        "sentiment": "positive"
+                    },
+                    "criticsScore": {
+                        "certifiedAttribute": "",
+                        "score": "67",
+                        "sentiment": "positive"
+                    },
+                    "fallbackPosterUrl": "//images.fandango.com/cms/assets/5d84d010-59b1-11ea-b175-791e911be53d--rt-poster-defaultgif.gif",
+                    "id": "cebbc83b-b26b-301d-aea8-b6cc362b39db",
+                    "isVideo": "True",
+                    "emsId": "cebbc83b-b26b-301d-aea8-b6cc362b39db",
+                    "mediaUrl": "/m/the_adam_project",
+                    "mpxId": "2008121411972",
+                    "publicId": "ffnXY1n2OMgb",
+                    "posterUri": "https://resizing.flixster.com/3fPQAq6gDGjQKDt86OTEZ51UY5Y=/180x258/v2/https://resizing.flixster.com/IHo_T0U-Ml6Hze4m5mjhQOuSlxk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ1ZGViNThlLTcxNDQtNDM3Ny05NzI5LTA5OGM0OGJiNWQ1NS5qcGc=",
+                    "releaseDateText": "Streaming Mar 11, 2022",
+                    "title": "The Adam Project",
+                    "trailerUrl": "https://player.theplatform.com/p/NGweTC/pdk6_y__7B0iQTi4P/embed/select/media/ffnXY1n2OMgb",
+                    "type": "Movie"
+                },
+                {
+                    "audienceScore": {
+                        "score": "93",
+                        "sentiment": "positive"
+                    },
+                    "criticsScore": {
+                        "certifiedAttribute": "criticscertified",
+                        "score": "88",
+                        "sentiment": "positive"
+                    },
+                    "fallbackPosterUrl": "//images.fandango.com/cms/assets/5d84d010-59b1-11ea-b175-791e911be53d--rt-poster-defaultgif.gif",
+                    "id": "83fd8f24-e721-42bc-9458-f9bd12c6e5d9",
+                    "isVideo": "True",
+                    "emsId": "83fd8f24-e721-42bc-9458-f9bd12c6e5d9",
+                    "mediaUrl": "/m/the_harder_they_fall",
+                    "mpxId": "1953644611551",
+                    "publicId": "nJSFyCc8ywrN",
+                    "posterUri": "https://resizing.flixster.com/az509-JKGO7qPf8jW-MiG8LDEW0=/180x258/v2/https://resizing.flixster.com/O-JkRIKIk7nd9zSP2G-2uDpgi0A=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ0MTcyZTUyLWU0YmUtNDYyNi04MDllLTg1N2RhNGMxMDU0ZC5qcGc=",
+                    "releaseDateText": "Streaming Nov 3, 2021",
+                    "title": "The Harder They Fall",
+                    "trailerUrl": "https://player.theplatform.com/p/NGweTC/pdk6_y__7B0iQTi4P/embed/select/media/nJSFyCc8ywrN",
+                    "type": "Movie"
+                },
+                {
+                    "audienceScore": {
+                        "score": "70",
+                        "sentiment": "positive"
+                    },
+                    "criticsScore": {
+                        "certifiedAttribute": "criticscertified",
+                        "score": "93",
+                        "sentiment": "positive"
+                    },
+                    "fallbackPosterUrl": "//images.fandango.com/cms/assets/5d84d010-59b1-11ea-b175-791e911be53d--rt-poster-defaultgif.gif",
+                    "id": "2155e018-17e1-35cb-bcac-bdb8385c1763",
+                    "isVideo": "True",
+                    "emsId": "2155e018-17e1-35cb-bcac-bdb8385c1763",
+                    "mediaUrl": "/m/sorry_to_bother_you_2018",
+                    "mpxId": "1236023875656",
+                    "publicId": "OULyFNhC7FfB",
+                    "posterUri": "https://resizing.flixster.com/5yW56i4GTO3P0FFbmfKnFMgedjM=/180x258/v2/https://flxt.tmsimg.com/NowShowing/184136/184136_aa.jpg",
+                    "releaseDateText": "Streaming Oct 9, 2018",
+                    "title": "Sorry to Bother You",
+                    "trailerUrl": "https://player.theplatform.com/p/NGweTC/pdk6_y__7B0iQTi4P/embed/select/media/OULyFNhC7FfB",
+                    "type": "Movie"
+                }
+            ]
+        }
+    ],
+    "pageInfo": {
+        "startCursor": "MzA=",
+        "endCursor": "NTk=",
+        "hasNextPage": "True",
+        "hasPreviousPage": "True"
+    }
+}
