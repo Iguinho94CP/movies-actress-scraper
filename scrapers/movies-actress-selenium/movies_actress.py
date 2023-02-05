@@ -8,14 +8,14 @@ from bs4 import BeautifulSoup
 import time
 import json
 
-with open('/home/igor/projects/scrapers/movies_titles.txt', 'r') as file:
+with open('/home/igor/projects/scrapers/files/movies_titles.txt', 'r') as file:
     movie_titles = file.read().splitlines()
 
 driver = webdriver.Chrome()
 driver.get('https://google.com')
 
 
-for i in range(5):
+for i in range(10):
     movie = movie_titles[i]
     search_box = driver.find_element(By.NAME, 'q')
     search_box.clear()
@@ -31,7 +31,7 @@ for i in range(5):
     data = []
 
     for i in actresses:
-        if counter == 3:
+        if counter == 4:
             break
 
         try:
@@ -78,11 +78,9 @@ for i in range(5):
                 "year": year
             }
             data.append(actress_data)
-            print(f'Title: {title}\nYear: {year}')
-
+            #print(f'Title: {title}\nYear: {year}')
+            
         counter += 1
-
+        with open('movies-data.json', 'a') as f:
+            json.dump(data, f)
 driver.quit()
-
-with open('data.json', 'w') as f:
-    json.dump(data, f)
